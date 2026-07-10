@@ -4,7 +4,7 @@ This repository contains **eight deep-learning architectures** for **3D MRI → 
 
 ---
 
-## Table of Contents
+## Table of Contents:
 
 - [Overview](#overview)
 - [Repository Structure](#repository-structure)
